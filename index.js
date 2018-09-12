@@ -1,1 +1,5 @@
-add(3, 5)
+var number = 4
+function add3() {
+  number += 3
+
+}
