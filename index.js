@@ -1,6 +1,4 @@
-var number = 4
 function add(a, b) {
-  number += 3
-  return number
+  return a + b
+  
 }
-add3()
